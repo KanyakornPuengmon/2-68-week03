@@ -1,4 +1,4 @@
-# ให้นำเรียน copy code ไปวางใน vs code
+# ให้นักเรียนนำ copy code ไปวางใน vs code
 
 ```
 <!DOCTYPE html>
